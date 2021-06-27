@@ -4,10 +4,11 @@ Non-invasive power meter with ESP8266
 You should have a PHP and PostgreSQL server on hand.
 
 ### Circuit
-Some modifications: 
-- With SCT-013-030, which has a burden resistor already, so I doesn't use any. 
--Use the 3.3V voltage from the 8266, not the 5V!
 Bought a Jack female connector, and solder all it to a breadboard, and put on the bottom of the ESP8266 as a shield.
+#### odifications: 
+- With SCT-013-030, which has a burden resistor already, so I doesn't use any. 
+- Use the 3.3V voltage from the 8266, not the 5V!
+
 ![Source: openenergymonitor.org](https://camo.githubusercontent.com/62408ef6f7b5f0b6f1cc80e8207c54d8a0bf3977988a32b51f44560adfade0ea/68747470733a2f2f6f70656e656e657267796d6f6e69746f722e6f72672f666f72756d2d617263686976652f73697465732f64656661756c742f66696c65732f41726475696e6f253230414325323063757272656e74253230696e707574253230412e706e67)
 
 Source: [openenergymonitor.org](https://openenergymonitor.org)
