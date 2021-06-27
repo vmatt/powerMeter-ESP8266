@@ -5,7 +5,7 @@ You should have a PHP and PostgreSQL server on hand.
 
 ### Circuit
 Bought a Jack female connector, and solder all it to a breadboard, and put on the bottom of the ESP8266 as a shield.
-#### odifications: 
+#### Modifications
 - With SCT-013-030, which has a burden resistor already, so I doesn't use any. 
 - Use the 3.3V voltage from the 8266, not the 5V!
 
